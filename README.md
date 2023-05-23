@@ -3,7 +3,7 @@
 <h3 align="center">Guy which interested in programming</h3>
 <img align= "right" alt="coding" width="400" src="https://64.media.tumblr.com/6b9d5fbcc7d6ebe2c3636ed25a550787/f02e19988b551a66-43/s1280x1920/311bc898f00d0bea349351a7a36333f9f659f645.gif" >
 
-- 📫 How to reach me: write on email **iesquirex1＠gmail.com**
+- nice
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
