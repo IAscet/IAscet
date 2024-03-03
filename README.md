@@ -10,5 +10,4 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<img height="32" width="32" src="https://cdn.simpleicons.org/python" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/go" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/python" /><img height="32" width="32" src="https://cdn.simpleicons.org/go" />
