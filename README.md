@@ -9,7 +9,7 @@
 <p align="left">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools i use:</h3>
 <div>
 
 <img height="32" width="32" src="https://cdn.simpleicons.org/python" />
